@@ -1,2 +1,0 @@
-# Actitime
-Automation Project
